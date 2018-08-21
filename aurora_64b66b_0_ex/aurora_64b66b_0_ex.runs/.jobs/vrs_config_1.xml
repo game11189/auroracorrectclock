@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="aurora_64b66b_0_reg_slice_2_synth_1" LaunchDir="/home/callie/Desktop/xilinxauroratest2/aurora_64b66b_0_ex/aurora_64b66b_0_ex.runs/aurora_64b66b_0_reg_slice_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+
